@@ -114,7 +114,7 @@ a:hover {
 }
 
 
-@keyframes zoom {
+/* @keyframes zoom {
     0%{
         background: url(../img/IMG_4988.jpg) ;
         background-size: cover;
@@ -132,7 +132,7 @@ a:hover {
              background-size: cover;
         background-position: top;
     }
-}
+} */
 
 
 #home-area .container {
