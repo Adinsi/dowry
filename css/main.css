@@ -109,7 +109,7 @@ a:hover {
     background: url(../img/mari/im3.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: cover;
-    animation: zoom 5s infinite ease-in;
+    animation: zoom 0s infinite 10s ease-in;
 }
 
 @keyframes zoom {
