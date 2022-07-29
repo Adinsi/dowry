@@ -106,10 +106,10 @@ a:hover {
 ================================================ */
 
 #home-area {
-    /* background: url(../img/mari/im3.jpg) no-repeat;
+    background: url(../img/mari/im3.jpg) no-repeat;
     background-position: 50% 50%;
-    background-size: cover; */
-    animation: zoom 15s infinite 0s forwards;
+    background-size: cover;
+    animation: zoom 15s infinite 0s ease-in;
 }
 
 @keyframes zoom {
