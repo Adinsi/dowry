@@ -119,23 +119,11 @@ a:hover {
         background-size: cover; 
     }
 
-      0%{
-        background: url(../img/mari/im1.jpg) ; 
-        background-position: center; 
-        background-size: cover; 
-    }
+    
 
-     10%{
-   background: url(../img/mari/im7.jpg);
-   background-position: center; 
-        background-size: cover; 
-    }
+   
 
-    20%{
-   background: url(../img/mari/im2.jpg);
-   background-position: center; 
-        background-size: cover; 
-    }
+   
 
     40%{
         background: url(../img/mari/im6.jpg);
@@ -143,11 +131,7 @@ a:hover {
         background-size: cover; 
     }
 
-    50%{
-   background: url(../img/mari/im3.jpg);
-   background-position: center; 
-        background-size: cover; 
-    }
+   
 
     70%{
    background: url(../img/mari/im4.jpg);
@@ -155,12 +139,7 @@ a:hover {
         background-size: cover; 
     }
 
-    90%{
-   background: url(../img/mari/im6.jpg)   ;
-    background-position: center; 
-        background-size: cover; 
-
-    }
+  
 
      100%{
    background: url(../img/mari/im7.jpg)   ;
