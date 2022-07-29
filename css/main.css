@@ -106,10 +106,32 @@ a:hover {
 ================================================ */
 
 #home-area {
-    background: url(../img/mari/im5.jpg) no-repeat;
-    background-position: 50% 50%;
+    background: url(../img/IMG_4988.jpg) no-repeat;
+    background-position: center;
     background-size: cover;
     object-fit: cover;
+    animation:zoom infinite 10s ease 1s ;
+}
+
+
+@keyframes zoom {
+    0%{
+        background: url(../img/IMG_4988.jpg) ;
+        background-size: cover;
+        background-position: top;
+    }
+
+    33%{
+        background: url(../img/IMG_4903-1.jpg);
+             background-size: cover;
+        background-position: top;
+    }
+
+    66%{
+        background: url(../img/IMG_4924.jpg);
+             background-size: cover;
+        background-position: top;
+    }
 }
 
 
